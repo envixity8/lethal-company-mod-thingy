@@ -1,0 +1,406 @@
+[Message:   BepInEx] BepInEx 5.4.21.0 - Lethal Company (10/01/2024 3:43:09 AM)
+[Info   :   BepInEx] Running under Unity v2022.3.9.15351836
+[Info   :   BepInEx] CLR runtime version: 4.0.30319.42000
+[Info   :   BepInEx] Supports SRE: True
+[Info   :   BepInEx] System platform: Bits64, Windows
+[Message:   BepInEx] Preloader started
+[Info   :   BepInEx] Loaded 1 patcher method from [BepInEx.Preloader 5.4.21.0]
+[Info   :   BepInEx] 1 patcher plugin loaded
+[Info   :   BepInEx] Patching [UnityEngine.CoreModule] with [BepInEx.Chainloader]
+[Message:   BepInEx] Preloader finished
+[Message:   BepInEx] Chainloader ready
+[Message:   BepInEx] Chainloader started
+[Info   :   BepInEx] 6 plugins to load
+[Warning:   BepInEx] Plugin [SnatchingBracken 1.1.2] targets a wrong version of BepInEx (5.4.22.0) and might not work until you update
+[Info   :   BepInEx] Loading [LethalConfig 1.3.4]
+[Info   :ainavt.lc.lethalconfig] Finished loading assets.
+[Info   :ainavt.lc.lethalconfig] Registered config "LethalConfig/Example/Int Slider"
+[Info   :ainavt.lc.lethalconfig] Registered config "LethalConfig/Example/Float Slider"
+[Info   :ainavt.lc.lethalconfig] Registered config "LethalConfig/Example/Float Step Slider"
+[Info   :ainavt.lc.lethalconfig] Registered config "LethalConfig/Example/Bool Checkbox"
+[Info   :ainavt.lc.lethalconfig] Registered config "LethalConfig/Example/Enum Dropdown"
+[Info   :ainavt.lc.lethalconfig] Registered config "LethalConfig/Example/Text Input"
+[Info   :ainavt.lc.lethalconfig] Registered config "LethalConfig.ConfigItems.GenericButtonConfigItem"
+[Info   :ainavt.lc.lethalconfig] Registered config "LethalConfig/Example/Int Input"
+[Info   :ainavt.lc.lethalconfig] Registered config "LethalConfig/Example/Float Input"
+[Info   :ainavt.lc.lethalconfig] LethalConfig loaded!
+[Error  :   BepInEx] Could not load [broiilers-silly-emotes 1.0.6] because it has missing dependencies: com.weliveinasociety.CustomEmotesAPI
+[Info   :   BepInEx] Loading [Custom Sounds 2.2.0]
+[Info   :CustomSounds] "hideManagerGameObject" value not correctly set. Fixing it now.
+[Info   :CustomSounds] Plugin CustomSounds is loaded!
+[Info   :   BepInEx] Loading [LC Sound Tool 1.4.0]
+[Info   :LCSoundTool] Plugin LCSoundTool is loaded!
+[Info   :   BepInEx] Loading [NonLethalCompany-Mod 1.0.0]
+[Message:NonLethalCompany-Mod] [31mMOD LOADED WOW!!!!!!!!!!!!!![0m
+[Info   :   BepInEx] Loading [SnatchingBracken 1.1.2]
+[Info   :Ovchinikov.SnatchingBracken.Main] Enabling SnatchinBracken
+[Info   :Ovchinikov.SnatchingBracken.Main] Parsing SnatchinBracken config
+[Info   :ainavt.lc.lethalconfig] Registered config "SnatchingBracken/SnatchinBracken Settings/Drop Items on Snatch"
+[Info   :ainavt.lc.lethalconfig] Registered config "SnatchingBracken/SnatchinBracken Settings/Ignore Turrets on Snatch"
+[Info   :ainavt.lc.lethalconfig] Registered config "SnatchingBracken/SnatchinBracken Settings/Ignore Mines on Snatch"
+[Info   :ainavt.lc.lethalconfig] Registered config "SnatchingBracken/SnatchinBracken Settings/Seconds Until Auto Kill"
+[Info   :ainavt.lc.lethalconfig] Registered config "SnatchingBracken/SnatchinBracken Settings/Seconds Until Next Attempt"
+[Info   :Ovchinikov.SnatchingBracken.Main] Config finished parsing
+[Info   :Ovchinikov.SnatchingBracken.Main] Finished Enabling SnatchinBracken
+[Message:   BepInEx] Chainloader startup complete
+[Warning:LCSoundTool] Legacy directory location at BepInEx/Plugins found!
+[Warning:LCSoundTool] Legacy path contains the requested audio file at path C:\Users\noahr\OneDrive\Desktop\Lethal Company\BepInEx\plugins\CustomSounds\The Autism is Racist\AngryScreech1.WAV!
+[Debug  :LCSoundTool] Loading AudioClip C:\Users\noahr\OneDrive\Desktop\Lethal Company\BepInEx\plugins\CustomSounds\The Autism is Racist\AngryScreech1.WAV from legacy path: C:\Users\noahr\OneDrive\Desktop\Lethal Company\BepInEx\plugins\CustomSounds\The Autism is Racist\AngryScreech1.WAV
+[Debug  :LCSoundTool] Finished loading AudioClip C:\Users\noahr\OneDrive\Desktop\Lethal Company\BepInEx\plugins\CustomSounds\The Autism is Racist\AngryScreech1.WAV with length of 3.784!
+[Info   :CustomSounds] [The Autism is Racist] AngryScreech1 sound replaced!
+[Warning:LCSoundTool] Legacy directory location at BepInEx/Plugins found!
+[Warning:LCSoundTool] Legacy path contains the requested audio file at path C:\Users\noahr\OneDrive\Desktop\Lethal Company\BepInEx\plugins\CustomSounds\The Autism is Racist\AngryScreech2.WAV!
+[Debug  :LCSoundTool] Loading AudioClip C:\Users\noahr\OneDrive\Desktop\Lethal Company\BepInEx\plugins\CustomSounds\The Autism is Racist\AngryScreech2.WAV from legacy path: C:\Users\noahr\OneDrive\Desktop\Lethal Company\BepInEx\plugins\CustomSounds\The Autism is Racist\AngryScreech2.WAV
+[Debug  :LCSoundTool] Finished loading AudioClip C:\Users\noahr\OneDrive\Desktop\Lethal Company\BepInEx\plugins\CustomSounds\The Autism is Racist\AngryScreech2.WAV with length of 2.647!
+[Info   :CustomSounds] [The Autism is Racist] AngryScreech2 sound replaced!
+[Warning:LCSoundTool] Legacy directory location at BepInEx/Plugins found!
+[Warning:LCSoundTool] Legacy path contains the requested audio file at path C:\Users\noahr\OneDrive\Desktop\Lethal Company\BepInEx\plugins\CustomSounds\The Autism is Racist\BugDie.WAV!
+[Debug  :LCSoundTool] Loading AudioClip C:\Users\noahr\OneDrive\Desktop\Lethal Company\BepInEx\plugins\CustomSounds\The Autism is Racist\BugDie.WAV from legacy path: C:\Users\noahr\OneDrive\Desktop\Lethal Company\BepInEx\plugins\CustomSounds\The Autism is Racist\BugDie.WAV
+[Debug  :LCSoundTool] Finished loading AudioClip C:\Users\noahr\OneDrive\Desktop\Lethal Company\BepInEx\plugins\CustomSounds\The Autism is Racist\BugDie.WAV with length of 4.342!
+[Info   :CustomSounds] [The Autism is Racist] BugDie sound replaced!
+[Warning:LCSoundTool] Legacy directory location at BepInEx/Plugins found!
+[Warning:LCSoundTool] Legacy path contains the requested audio file at path C:\Users\noahr\OneDrive\Desktop\Lethal Company\BepInEx\plugins\CustomSounds\The Autism is Racist\Chitter1.WAV!
+[Debug  :LCSoundTool] Loading AudioClip C:\Users\noahr\OneDrive\Desktop\Lethal Company\BepInEx\plugins\CustomSounds\The Autism is Racist\Chitter1.WAV from legacy path: C:\Users\noahr\OneDrive\Desktop\Lethal Company\BepInEx\plugins\CustomSounds\The Autism is Racist\Chitter1.WAV
+[Debug  :LCSoundTool] Finished loading AudioClip C:\Users\noahr\OneDrive\Desktop\Lethal Company\BepInEx\plugins\CustomSounds\The Autism is Racist\Chitter1.WAV with length of 3.808!
+[Info   :CustomSounds] [The Autism is Racist] Chitter1 sound replaced!
+[Warning:LCSoundTool] Legacy directory location at BepInEx/Plugins found!
+[Warning:LCSoundTool] Legacy path contains the requested audio file at path C:\Users\noahr\OneDrive\Desktop\Lethal Company\BepInEx\plugins\CustomSounds\The Autism is Racist\Chitter2.WAV!
+[Debug  :LCSoundTool] Loading AudioClip C:\Users\noahr\OneDrive\Desktop\Lethal Company\BepInEx\plugins\CustomSounds\The Autism is Racist\Chitter2.WAV from legacy path: C:\Users\noahr\OneDrive\Desktop\Lethal Company\BepInEx\plugins\CustomSounds\The Autism is Racist\Chitter2.WAV
+[Debug  :LCSoundTool] Finished loading AudioClip C:\Users\noahr\OneDrive\Desktop\Lethal Company\BepInEx\plugins\CustomSounds\The Autism is Racist\Chitter2.WAV with length of 4.481!
+[Info   :CustomSounds] [The Autism is Racist] Chitter2 sound replaced!
+[Warning:LCSoundTool] Legacy directory location at BepInEx/Plugins found!
+[Warning:LCSoundTool] Legacy path contains the requested audio file at path C:\Users\noahr\OneDrive\Desktop\Lethal Company\BepInEx\plugins\CustomSounds\The Autism is Racist\Chitter3.WAV!
+[Debug  :LCSoundTool] Loading AudioClip C:\Users\noahr\OneDrive\Desktop\Lethal Company\BepInEx\plugins\CustomSounds\The Autism is Racist\Chitter3.WAV from legacy path: C:\Users\noahr\OneDrive\Desktop\Lethal Company\BepInEx\plugins\CustomSounds\The Autism is Racist\Chitter3.WAV
+[Debug  :LCSoundTool] Finished loading AudioClip C:\Users\noahr\OneDrive\Desktop\Lethal Company\BepInEx\plugins\CustomSounds\The Autism is Racist\Chitter3.WAV with length of 4.643!
+[Info   :CustomSounds] [The Autism is Racist] Chitter3 sound replaced!
+[Warning:LCSoundTool] Legacy directory location at BepInEx/Plugins found!
+[Warning:LCSoundTool] Legacy path contains the requested audio file at path C:\Users\noahr\OneDrive\Desktop\Lethal Company\BepInEx\plugins\CustomSounds\The Autism is Racist\Fly.WAV!
+[Debug  :LCSoundTool] Loading AudioClip C:\Users\noahr\OneDrive\Desktop\Lethal Company\BepInEx\plugins\CustomSounds\The Autism is Racist\Fly.WAV from legacy path: C:\Users\noahr\OneDrive\Desktop\Lethal Company\BepInEx\plugins\CustomSounds\The Autism is Racist\Fly.WAV
+[Debug  :LCSoundTool] Finished loading AudioClip C:\Users\noahr\OneDrive\Desktop\Lethal Company\BepInEx\plugins\CustomSounds\The Autism is Racist\Fly.WAV with length of 143.476!
+[Info   :CustomSounds] [The Autism is Racist] Fly sound replaced!
+[Warning:LCSoundTool] Legacy directory location at BepInEx/Plugins found!
+[Warning:LCSoundTool] Legacy path contains the requested audio file at path C:\Users\noahr\OneDrive\Desktop\Lethal Company\BepInEx\plugins\CustomSounds\The Autism is Racist\HoarderBugCry.WAV!
+[Debug  :LCSoundTool] Loading AudioClip C:\Users\noahr\OneDrive\Desktop\Lethal Company\BepInEx\plugins\CustomSounds\The Autism is Racist\HoarderBugCry.WAV from legacy path: C:\Users\noahr\OneDrive\Desktop\Lethal Company\BepInEx\plugins\CustomSounds\The Autism is Racist\HoarderBugCry.WAV
+[Debug  :LCSoundTool] Finished loading AudioClip C:\Users\noahr\OneDrive\Desktop\Lethal Company\BepInEx\plugins\CustomSounds\The Autism is Racist\HoarderBugCry.WAV with length of 3.413!
+[Info   :CustomSounds] [The Autism is Racist] HoarderBugCry sound replaced!
+[Warning:LCSoundTool] Networking disabled. Mod in fully client side mode, but no networked actions can take place! You can safely ignore this if you want the mod to run fully client side.
+[Debug  :   BepInEx] [UnityInput] Unknown key name: OEM1, skipping remapping
+[Debug  :   BepInEx] [UnityInput] Unknown key name: OEM2, skipping remapping
+[Debug  :   BepInEx] [UnityInput] Unknown key name: OEM3, skipping remapping
+[Debug  :   BepInEx] [UnityInput] Unknown key name: OEM4, skipping remapping
+[Debug  :   BepInEx] [UnityInput] Unknown key name: OEM5, skipping remapping
+[Debug  :   BepInEx] [UnityInput] Unknown key name: IMESelected, skipping remapping
+[Debug  :   BepInEx] [UnityInput] Using NewInputSystem
+[Info   : Unity Log] Saving changed settings
+[Info   : Unity Log] subcribing to steam callbacks
+[Info   :CustomSounds] Created AudioNetworkHandler prefab
+[Info   :ainavt.lc.lethalconfig] Injecting mod config menu into main menu...
+[Info   : Unity Log] Returning week num: 6
+[Info   : Unity Log] week num: 6
+[Info   :ainavt.lc.lethalconfig] Injecting mod config menu into main menu...
+[Info   :ainavt.lc.lethalconfig] 5 mods loaded: ainavt.lc.lethalconfig;CustomSounds;LCSoundTool;NonLethalCompany-Mod;Ovchinikov.SnatchingBracken.Main
+[Warning:ainavt.lc.lethalconfig] No UI component found for config of type KeyboardShortcut (Custom Sounds/Experimental/AcceptSyncKey)
+[Info   :ainavt.lc.lethalconfig] Generated 2 mod entries.
+[Info   :ainavt.lc.lethalconfig] Generated 17 configs, of which 4 were missing and registered.
+[Info   : Unity Log] Requested server list
+[Info   : Unity Log] Got lobby list!
+[Info   : Unity Log] Lobby #0 id: 109775241820931186; members: 1
+[Info   : Unity Log] Is lobby #0 valid?: False
+[Info   : Unity Log] Lobby #1 id: 109775241824469501; members: 3
+[Info   : Unity Log] Is lobby #1 valid?: False
+[Info   : Unity Log] Lobby #2 id: 109775241822498622; members: 4
+[Info   : Unity Log] Is lobby #2 valid?: False
+[Info   : Unity Log] Lobby #3 id: 109775241824469404; members: 3
+[Info   : Unity Log] Is lobby #3 valid?: False
+[Info   : Unity Log] Lobby #4 id: 109775241824469394; members: 3
+[Info   : Unity Log] Is lobby #4 valid?: False
+[Info   : Unity Log] Lobby #5 id: 109775241822498552; members: 3
+[Info   : Unity Log] Is lobby #5 valid?: False
+[Info   : Unity Log] Lobby #6 id: 109775241819228902; members: 2
+[Info   : Unity Log] Is lobby #6 valid?: False
+[Info   : Unity Log] Lobby #7 id: 109775241824469106; members: 1
+[Info   : Unity Log] Is lobby #7 valid?: False
+[Info   : Unity Log] Lobby #8 id: 109775241822498709; members: 2
+[Info   : Unity Log] Is lobby #8 valid?: False
+[Info   : Unity Log] Lobby #9 id: 109775241824469500; members: 3
+[Info   : Unity Log] Is lobby #9 valid?: False
+[Info   : Unity Log] Lobby #10 id: 109775241822495046; members: 2
+[Info   : Unity Log] Is lobby #10 valid?: False
+[Info   : Unity Log] Lobby #11 id: 109775241822497752; members: 2
+[Info   : Unity Log] Is lobby #11 valid?: False
+[Info   : Unity Log] Lobby #12 id: 109775241824469290; members: 2
+[Info   : Unity Log] Is lobby #12 valid?: False
+[Info   : Unity Log] Lobby #13 id: 109775241822498066; members: 2
+[Info   : Unity Log] Is lobby #13 valid?: False
+[Info   : Unity Log] Lobby #14 id: 109775241824469197; members: 3
+[Info   : Unity Log] Is lobby #14 valid?: False
+[Info   : Unity Log] Lobby #15 id: 109775241824469055; members: 2
+[Info   : Unity Log] Is lobby #15 valid?: False
+[Info   : Unity Log] Lobby #16 id: 109775241822497400; members: 3
+[Info   : Unity Log] Is lobby #16 valid?: False
+[Info   : Unity Log] Lobby #17 id: 109775241824469522; members: 1
+[Info   : Unity Log] Is lobby #17 valid?: False
+[Info   : Unity Log] Lobby #18 id: 109775241824469243; members: 2
+[Info   : Unity Log] Is lobby #18 valid?: False
+[Info   : Unity Log] Lobby #19 id: 109775241822498354; members: 2
+[Info   : Unity Log] Is lobby #19 valid?: False
+[Info   : Unity Log] Lobby #20 id: 109775241824469405; members: 3
+[Info   : Unity Log] Is lobby #20 valid?: False
+[Info   : Unity Log] Lobby #21 id: 109775241824469046; members: 3
+[Info   : Unity Log] Is lobby #21 valid?: False
+[Info   : Unity Log] Lobby #22 id: 109775241811444925; members: 5
+[Info   : Unity Log] Is lobby #22 valid?: False
+[Info   : Unity Log] Lobby #23 id: 109775241824469441; members: 2
+[Info   : Unity Log] Is lobby #23 valid?: False
+[Info   : Unity Log] Lobby #24 id: 109775241824469087; members: 2
+[Info   : Unity Log] Is lobby #24 valid?: False
+[Info   : Unity Log] Lobby #25 id: 109775241824469196; members: 2
+[Info   : Unity Log] Is lobby #25 valid?: False
+[Info   : Unity Log] Lobby #26 id: 109775241824469131; members: 2
+[Info   : Unity Log] Is lobby #26 valid?: False
+[Warning: Unity Log] The character with Unicode value \u9E3D was not found in the [3270-Regular SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [ServerName].
+[Warning: Unity Log] The character with Unicode value \u5B50 was not found in the [3270-Regular SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [ServerName].
+[Warning: Unity Log] The character with Unicode value \u793E was not found in the [3270-Regular SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [ServerName].
+[Warning: Unity Log] The character with Unicode value \u533A was not found in the [3270-Regular SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [ServerName].
+[Warning: Unity Log] The character with Unicode value \u767D was not found in the [3270-Regular SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [ServerName].
+[Warning: Unity Log] The character with Unicode value \u7ED9 was not found in the [3270-Regular SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [ServerName].
+[Warning: Unity Log] The character with Unicode value \u5C0F was not found in the [3270-Regular SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [ServerName].
+[Warning: Unity Log] The character with Unicode value \u961F was not found in the [3270-Regular SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [ServerName].
+[Info   : Unity Log] host button pressed
+[Info   : Unity Log] Returning week num: 6
+[Info   : Unity Log] Displaying menu message
+[Info   : Unity Log] Connection approval callback! Game version of client request: 
+[Info   : Unity Log] Joining client id: 0; Local/host client id: 0
+[Info   : Unity Log] Stopped connection approval callback, as the client in question was the host!
+[Warning: Unity Log] [Netcode] You cannot decline the host connection. The connection was automatically approved.
+[Info   : Unity Log] started host!
+[Info   : Unity Log] are we in a server?: True
+[Info   : Unity Log] Lobby has been created
+[Info   :CustomSounds] Spawning network handler
+[Info   : Unity Log] AudioNetworkHandler instance created.
+[Info   : Unity Log] Failed to spawn NetworkObject.
+[Info   : Unity Log] Successfully accessed AudioNetworkHandler instance.
+[Info   : Unity Log] Enabling connection callbacks in StartOfRound
+[Info   : Unity Log] Began listening to SceneManager_OnLoadComplete1 on this client
+[Warning: Unity Log] damageTrigger is disabled! Netcode for GameObjects does not support spawning disabled NetworkBehaviours! The InteractTrigger component was skipped during spawn!
+[Info   : Unity Log] level id: 3
+[Info   : Unity Log] Changing level
+[Info   : Unity Log] Item sales percentages #0: 0
+[Info   : Unity Log] Item sales percentages #1: 0
+[Info   : Unity Log] Item sales percentages #2: 0
+[Info   : Unity Log] Item sales percentages #3: 0
+[Info   : Unity Log] Item sales percentages #4: 0
+[Info   : Unity Log] Item sales percentages #5: 0
+[Info   : Unity Log] Item sales percentages #6: 0
+[Info   : Unity Log] Item sales percentages #7: 0
+[Info   : Unity Log] Item sales percentages #8: 0
+[Info   : Unity Log] Item sales percentages #9: 0
+[Info   : Unity Log] Item sales percentages #10: 0
+[Info   : Unity Log] Item sales percentages #11: 0
+[Info   : Unity Log] Item sales percentages #12: 0
+[Warning: Unity Log] NetworkVariable is written to, but doesn't know its NetworkBehaviour yet. Are you modifying a NetworkVariable before the NetworkObject is spawned?
+[Info   : Unity Log] Suits: 1
+[Info   : Unity Log] Suit #0: 0
+[Info   : Unity Log] pos: (-2.45, 2.75, -8.41); rot: (0.00, 90.00, 0.00)
+[Info   : Unity Log] Ship grabbable items list loaded. Count: 2
+[Info   : Unity Log] Setting scrap value for item: YieldSign(Clone): 18
+[Info   :Ovchinikov.SnatchinBracken.TestCommands] Successfully bound host.
+[Info   :Ovchinikov.SnatchinBracken.TestCommands] Successfully bound host.
+[Info   :Ovchinikov.SnatchinBracken.TestCommands] Successfully bound host.
+[Info   :Ovchinikov.SnatchinBracken.TestCommands] Successfully bound host.
+[Info   : Unity Log] Item sales percentages #0: 0
+[Info   : Unity Log] Item sales percentages #1: 0
+[Info   : Unity Log] Item sales percentages #2: 0
+[Info   : Unity Log] Item sales percentages #3: 0
+[Info   : Unity Log] Item sales percentages #4: 0
+[Info   : Unity Log] Item sales percentages #5: 0
+[Info   : Unity Log] Item sales percentages #6: 0
+[Info   : Unity Log] Item sales percentages #7: 0
+[Info   : Unity Log] Item sales percentages #8: 0
+[Info   : Unity Log] Item sales percentages #9: 0
+[Info   : Unity Log] Item sales percentages #10: 0
+[Info   : Unity Log] Item sales percentages #11: 0
+[Info   : Unity Log] Item sales percentages #12: 0
+[Info   : Unity Log] Group credits: 10000374
+[Info   :ainavt.lc.lethalconfig] Injecting mod config menu into quick menu...
+[Info   : Unity Log] Taking control of player Player and enabling camera!
+[Info   : Unity Log] Starting voice tracking for player: Envixity
+[Info   : Unity Log] !!!! ENABLING CAMERA FOR PLAYER: Player
+[Info   : Unity Log] !!!! connectedPlayersAmount: 0
+[Info   : Unity Log] Has beta?: {hasBeta}
+[Info   : Unity Log] Has beta save data: True
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/LightSwitchContainer/PlacementCollider"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/Cube"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/AnimatedShipDoor/HangarDoorLeft (1)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/ShipBottomColliders/Cube (1)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/ControlDesk.001"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/ShipBottomColliders/Cube (3)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/ShipBottomColliders/Cube (7)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/ShipBottomColliders/Cube (6)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/ShipBottomColliders/Cube (8)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/ShipBottomColliders/Cube (5)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/ShipBottomColliders/Cube (4)"
+[Warning: Unity Log] [Dissonance:Recording] (11:35:20.322) CapturePipelineManager: Detected a frame skip, forcing capture pipeline reset (Delta Time:0.69926)
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/StorageCloset/Cube.000/Cube"
+[Warning: Unity Log] [Dissonance:Recording] (11:35:21.472) BasePreprocessingPipeline: Lost 480 samples in the preprocessor (buffer full), injecting silence to compensate
+[Warning: Unity Log] [Dissonance:Recording] (11:35:21.473) BasePreprocessingPipeline: Lost 480 samples in the preprocessor (buffer full), injecting silence to compensate
+[Warning: Unity Log] [Dissonance:Recording] (11:35:21.474) BasePreprocessingPipeline: Lost 960 samples in the preprocessor (buffer full), injecting silence to compensate
+[Warning: Unity Log] [Dissonance:Recording] (11:35:21.475) CapturePipelineManager: Detected a frame skip, forcing capture pipeline reset (Delta Time:0.2963667)
+[Warning: Unity Log] [Dissonance:Recording] (11:35:21.939) BasePreprocessingPipeline: Lost 480 samples in the preprocessor (buffer full), injecting silence to compensate
+[Warning: Unity Log] [Dissonance:Recording] (11:35:22.858) BasicMicrophoneCapture: Insufficient buffer space, requested 31232, clamped to 16383 (dropping 14849 samples)
+[Warning: Unity Log] [Dissonance:Recording] (11:35:22.859) BasePreprocessingPipeline: Lost 480 samples in the preprocessor (buffer full), injecting silence to compensate
+[Warning: Unity Log] [Dissonance:Recording] (11:35:22.861) BasePreprocessingPipeline: Lost 960 samples in the preprocessor (buffer full), injecting silence to compensate
+[Warning: Unity Log] [Dissonance:Recording] (11:35:22.862) BasePreprocessingPipeline: Lost 960 samples in the preprocessor (buffer full), injecting silence to compensate
+[Warning: Unity Log] [Dissonance:Recording] (11:35:22.863) BasePreprocessingPipeline: Lost 480 samples in the preprocessor (buffer full), injecting silence to compensate
+[Warning: Unity Log] [Dissonance:Recording] (11:35:23.254) BasicMicrophoneCapture: Insufficient buffer space, requested 18432, clamped to 16383 (dropping 2049 samples)
+[Warning: Unity Log] [Dissonance:Recording] (11:35:23.255) BasePreprocessingPipeline: Lost 480 samples in the preprocessor (buffer full), injecting silence to compensate
+[Warning: Unity Log] [Dissonance:Recording] (11:35:23.256) BasePreprocessingPipeline: Lost 480 samples in the preprocessor (buffer full), injecting silence to compensate
+[Warning: Unity Log] [Dissonance:Recording] (11:35:23.258) BasePreprocessingPipeline: Lost 960 samples in the preprocessor (buffer full), injecting silence to compensate
+[Warning: Unity Log] [Dissonance:Recording] (11:35:23.260) BasePreprocessingPipeline: Lost 480 samples in the preprocessor (buffer full), injecting silence to compensate
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] Leaving current lobby
+[Info   : Unity Log] Disconnecting and setting networkobjects to destroy with owner
+[Info   :CustomSounds] Destroying network handler
+[Info   : Unity Log] Shutting down and disconnecting from server. Is host?: True
+[Warning: Unity Log] [Dissonance:Recording] (11:35:39.768) BasePreprocessingPipeline: Lost 480 samples in the preprocessor (buffer full), injecting silence to compensate
+[Warning: Unity Log] [Dissonance:Recording] (11:35:39.769) BasePreprocessingPipeline: Lost 480 samples in the preprocessor (buffer full), injecting silence to compensate
+[Warning: Unity Log] [Dissonance:Recording] (11:35:39.769) BasePreprocessingPipeline: Lost 960 samples in the preprocessor (buffer full), injecting silence to compensate
+[Info   : Unity Log] Resetting unlockables list!
+[Info   : Unity Log] Scene manager is null
+[Info   : Unity Log] DISABLING connection callbacks in round manager
+[Info   : Unity Log] Terminal disabled, disabling ESC key listener
+[Info   : Unity Log] Returning week num: 6
+[Info   : Unity Log] week num: 6
+[Info   :ainavt.lc.lethalconfig] Injecting mod config menu into main menu...
+[Info   : Unity Log] Discarding changed settings
+[Info   : Unity Log] Requested server list
+[Info   : Unity Log] Got lobby list!
+[Info   : Unity Log] Lobby #0 id: 109775241820931186; members: 2
+[Info   : Unity Log] Is lobby #0 valid?: False
+[Info   : Unity Log] Lobby #1 id: 109775241824469249; members: 3
+[Info   : Unity Log] Is lobby #1 valid?: False
+[Info   : Unity Log] Lobby #2 id: 109775241820932975; members: 3
+[Info   : Unity Log] Is lobby #2 valid?: False
+[Info   : Unity Log] Lobby #3 id: 109775241822498622; members: 3
+[Info   : Unity Log] Is lobby #3 valid?: False
+[Info   : Unity Log] Lobby #4 id: 109775241824469394; members: 3
+[Info   : Unity Log] Is lobby #4 valid?: False
+[Info   : Unity Log] Lobby #5 id: 109775241822497846; members: 3
+[Info   : Unity Log] Is lobby #5 valid?: False
+[Info   : Unity Log] Lobby #6 id: 109775241824469750; members: 2
+[Info   : Unity Log] Is lobby #6 valid?: False
+[Info   : Unity Log] Lobby #7 id: 109775241824469727; members: 2
+[Info   : Unity Log] Is lobby #7 valid?: False
+[Info   : Unity Log] Lobby #8 id: 109775241822498552; members: 3
+[Info   : Unity Log] Is lobby #8 valid?: False
+[Info   : Unity Log] Lobby #9 id: 109775241819228902; members: 2
+[Info   : Unity Log] Is lobby #9 valid?: False
+[Info   : Unity Log] Lobby #10 id: 109775241824469672; members: 2
+[Info   : Unity Log] Is lobby #10 valid?: False
+[Info   : Unity Log] Lobby #11 id: 109775241824469825; members: 1
+[Info   : Unity Log] Is lobby #11 valid?: False
+[Info   : Unity Log] Lobby #12 id: 109775241824469331; members: 3
+[Info   : Unity Log] Is lobby #12 valid?: False
+[Info   : Unity Log] Lobby #13 id: 109775241822495046; members: 2
+[Info   : Unity Log] Is lobby #13 valid?: False
+[Info   : Unity Log] Lobby #14 id: 109775241822497752; members: 2
+[Info   : Unity Log] Is lobby #14 valid?: False
+[Info   : Unity Log] Lobby #15 id: 109775241824469747; members: 1
+[Info   : Unity Log] Is lobby #15 valid?: False
+[Info   : Unity Log] Lobby #16 id: 109775241822498066; members: 2
+[Info   : Unity Log] Is lobby #16 valid?: False
+[Info   : Unity Log] Lobby #17 id: 109775241824469714; members: 2
+[Info   : Unity Log] Is lobby #17 valid?: False
+[Info   : Unity Log] Lobby #18 id: 109775241824469055; members: 3
+[Info   : Unity Log] Is lobby #18 valid?: False
+[Info   : Unity Log] Lobby #19 id: 109775241824469666; members: 1
+[Info   : Unity Log] Is lobby #19 valid?: False
+[Info   : Unity Log] Lobby #20 id: 109775241822497400; members: 3
+[Info   : Unity Log] Is lobby #20 valid?: False
+[Info   : Unity Log] Lobby #21 id: 109775241824469243; members: 3
+[Info   : Unity Log] Is lobby #21 valid?: False
+[Info   : Unity Log] Lobby #22 id: 109775241822498354; members: 2
+[Info   : Unity Log] Is lobby #22 valid?: False
+[Info   : Unity Log] Lobby #23 id: 109775241824469046; members: 2
+[Info   : Unity Log] Is lobby #23 valid?: False
+[Info   : Unity Log] Lobby #24 id: 109775241811444925; members: 5
+[Info   : Unity Log] Is lobby #24 valid?: False
+[Info   : Unity Log] Lobby #25 id: 109775241824469812; members: 1
+[Info   : Unity Log] Is lobby #25 valid?: False
+[Info   : Unity Log] Lobby #26 id: 109775241824469441; members: 3
+[Info   : Unity Log] Is lobby #26 valid?: False
+[Info   : Unity Log] Lobby #27 id: 109775241824469601; members: 3
+[Info   : Unity Log] Is lobby #27 valid?: False
+[Info   : Unity Log] Lobby #28 id: 109775241824469754; members: 1
+[Info   : Unity Log] Is lobby #28 valid?: False
+[Info   : Unity Log] Lobby #29 id: 109775241824469539; members: 1
+[Info   : Unity Log] Is lobby #29 valid?: False
+[Info   : Unity Log] Lobby #30 id: 109775241824469196; members: 2
+[Info   : Unity Log] Is lobby #30 valid?: False
+[Info   : Unity Log] Lobby #31 id: 109775241822498083; members: 3
+[Info   : Unity Log] Is lobby #31 valid?: False
+[Info   : Unity Log] Lobby #32 id: 109775241824469393; members: 3
+[Info   : Unity Log] Is lobby #32 valid?: False
+[Warning: Unity Log] The character with Unicode value \u8FD9 was not found in the [3270-Regular SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [ServerName].
+[Warning: Unity Log] The character with Unicode value \u4E0B was not found in the [3270-Regular SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [ServerName].
+[Warning: Unity Log] The character with Unicode value \u771F was not found in the [3270-Regular SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [ServerName].
+[Warning: Unity Log] The character with Unicode value \u7EAA was not found in the [3270-Regular SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [ServerName].
+[Warning: Unity Log] The character with Unicode value \u4E86 was not found in the [3270-Regular SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [ServerName].
+[Warning: Unity Log] The character with Unicode value \u9E3D was not found in the [3270-Regular SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [ServerName].
+[Warning: Unity Log] The character with Unicode value \u5B50 was not found in the [3270-Regular SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [ServerName].
+[Warning: Unity Log] The character with Unicode value \u793E was not found in the [3270-Regular SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [ServerName].
+[Warning: Unity Log] The character with Unicode value \u533A was not found in the [3270-Regular SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [ServerName].
+[Warning: Unity Log] The character with Unicode value \u767D was not found in the [3270-Regular SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [ServerName].
+[Warning: Unity Log] The character with Unicode value \u7ED9 was not found in the [3270-Regular SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [ServerName].
+[Warning: Unity Log] The character with Unicode value \u5C0F was not found in the [3270-Regular SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [ServerName].
+[Warning: Unity Log] The character with Unicode value \u961F was not found in the [3270-Regular SDF] font asset or any potential fallbacks. It was replaced by Unicode character \u25A1 in text object [ServerName].
+[Info   : Unity Log] Requested server list
+[Info   : Unity Log] Lobby list is null after request.
+[Info   : Unity Log] Requested server list
+[Info   : Unity Log] Lobby list is null after request.
+[Info   : Unity Log] Requested server list
+[Info   : Unity Log] Lobby list is null after request.
+[Info   : Unity Log] Requested server list
+[Info   : Unity Log] Lobby list is null after request.
+[Info   : Unity Log] Requested server list
+[Info   : Unity Log] Lobby list is null after request.
+[Info   : Unity Log] Requested server list
+[Info   : Unity Log] Lobby list is null after request.
+[Info   : Unity Log] Requested server list
+[Info   : Unity Log] Lobby list is null after request.
+[Info   : Unity Log] Requested server list
+[Info   : Unity Log] Lobby list is null after request.
+[Info   : Unity Log] Requested server list
+[Info   : Unity Log] Lobby list is null after request.
+[Info   : Unity Log] unsubscribing from steam callbacks
